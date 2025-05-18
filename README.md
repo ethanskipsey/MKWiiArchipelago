@@ -8,7 +8,7 @@
 * [ ] Extract Mario Kart Wii ISO and identify editable assets (course files, item tables, character data, etc.)
 * [ ] Implement CLI script for basic ISO randomisation
 
-  * [ ] Track randomiser (starting cups, progressive cups, random races)
+  * [ ] Track randomiser
   * [ ] Character & vehicle randomiser
 * [ ] Implement seed generation and logging
 * [ ] Automate ISO repacking using Wiimms SZS Tools
