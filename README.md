@@ -19,8 +19,7 @@
 **Goal: Add logic-based progression, locking, and custom rules.**
 
 * [ ] Implement progressive cup unlocking (Yes/No)
-* [ ] Add "Lock Mechanics" and "Mechanics Unlock" logic
-* [ ] Lock item boxes based on rules (Placement / Tracks / Specific Items)
+* [ ] Add "Mechanic Lock/Unlock" logic (wheelie, manual drift, item boxes)
 * [ ] Develop basic flags configuration system (user-defined ruleset)
 
 ### ⏳ Phase 3: Sanity Checks & Win Conditions (Weeks 7–9)
@@ -51,6 +50,13 @@
   * [ ] Blooper
   * [ ] POW Block
 * [ ] Add toggle options for trap inclusion
+* [ ] Implement Item Reward System
+
+  * [ ] Mushrooms (Single, Triple, Golden)
+  * [ ] Star
+  * [ ] Bullet Bill
+  * [ ] Green and Red Shells (Single and Triple)
+  * [ ] Bananas (Sinlge and Triple)
 
 ### ⏳ Phase 5: Deathlink & Archipelago Prep (Weeks 12–14)
 
