@@ -5,7 +5,7 @@
 **Goal: Build core functionality and test ISO patching pipeline.**
 
 * [x] Set up GitHub repository and development environment
-* [ ] Extract Mario Kart Wii ISO and identify editable assets (course files, item tables, character data, etc.)
+* [x] Extract Mario Kart Wii ISO and identify editable assets (course files, item tables, character data, etc.)
 * [ ] Implement CLI script for basic ISO randomisation
 
   * [ ] Track randomiser
